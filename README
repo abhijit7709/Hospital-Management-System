@@ -1,0 +1,4 @@
+Hospital Management System is a console-based Java application developed using Java, MySQL, and JDBC to manage essential hospital operations through a simple text-based interface. 
+The system allows users to efficiently handle patient records, doctor details, appointment scheduling, and  CRUD operations directly from the console. 
+MySQL serves as the backend database for storing all hospital data securely, while JDBC enables smooth communication between the Java program and the database. 
+This project simplifies hospital administration by reducing manual work, improving data accuracy, and offering an easy-to-use console workflow for managing daily hospital tasks.
